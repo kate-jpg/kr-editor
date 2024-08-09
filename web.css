@@ -4,7 +4,7 @@
 
 html, body {
     height: 100%;
-	width: 50%;
+	width: 100%;
 	background-color: #E5E3DF;
 }
 
@@ -15,6 +15,7 @@ body {
 
 #container {
     height: 100%;
+	width: 50%;
     border-collapse: collapse;
 	position: static;
 }
