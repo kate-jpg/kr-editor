@@ -130,6 +130,12 @@ body {
   padding-bottom: 20px;
 }
 
+.links {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #E5E3DF;
+	text-decoration: none;
+}
+
 #bio h2 {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	font-size: 25px;
